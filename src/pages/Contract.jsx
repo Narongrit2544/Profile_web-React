@@ -16,12 +16,14 @@ const Contract = () => {
           </p>
 
           <div className="space-y-4 text-gray-800 text-base">
-            <div className="flex items-center gap-3">
-              <FiMapPin className="text-xl" />
-              <span>302/1 Sinpitak Dormitory, Soi Wongsawang 11,
-                Wongsawang Sub-district, Bang Sue District,
-                Bangkok 10800, Thailand</span>
-            </div>
+            <div className="flex items-start gap-3">
+  <FiMapPin className="text-xl mt-1" />
+  <span>
+    302/1 Sinpitak Dormitory, Soi Wongsawang 11,<br />
+    Wongsawang Sub-district, Bang Sue District,<br />
+    Bangkok 10800, Thailand
+  </span>
+</div>
             <div className="flex items-center gap-3">
               <FiPhone className="text-xl" />
               <span>062 195 7218</span>
