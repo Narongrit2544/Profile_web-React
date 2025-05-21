@@ -16,7 +16,7 @@ const Navbar = () => {
         {/* Group Logo + Name */}
         <div className="flex items-center gap-3">
           <img
-            src="https://img5.pic.in.th/file/secure-sv1/pngwing.com5a7b9b359ed92934.png"
+            src="https://img2.pic.in.th/pic/311472.jpg"
             alt="Logo"
             className="w-10 h-10 rounded-full border-2 border-blue-500 shadow-sm"
           />
