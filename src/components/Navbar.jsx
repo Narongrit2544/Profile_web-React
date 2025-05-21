@@ -32,8 +32,8 @@ const Navbar = () => {
 
         {/* Navigation Links - Desktop */}
         <ul className="hidden lg:flex gap-6 text-gray-700 font-medium font-nunito">
-          {['/', '/about', '/project', '/resume', '/contract'].map((path, index) => {
-            const labels = ['Home', 'About', 'Project', 'Resume', 'Contract'];
+          {['/', '/about', '/project', '/contract'].map((path, index) => {
+            const labels = ['Home', 'About', 'Project', 'Contract'];
             return (
               <li key={path}>
                 <NavLink
