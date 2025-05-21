@@ -53,8 +53,8 @@ const Navbar = () => {
       {isOpen && (
         <div className="lg:hidden mt-2 px-4 sm:px-6">
           <ul className="flex flex-col gap-4 text-gray-700 font-medium font-nunito items-center">
-            {['/', '/about', '/project', '/resume', '/contract'].map((path, index) => {
-              const labels = ['Home', 'About', 'Project', 'Resume', 'Contract'];
+            {['/', '/about', '/project',  '/contract'].map((path, index) => {
+              const labels = ['Home', 'About', 'Project', 'Contract'];
               return (
                 <li key={path} className="w-full text-center">
                   <NavLink
