@@ -20,7 +20,7 @@ const Navbar = () => {
             alt="Logo"
             className="w-10 h-10 rounded-full border-2 border-blue-500 shadow-sm"
           />
-          <p className="text-gray-700 font-medium font-nunito">Profile Web</p>
+          <p className="text-gray-700 font-medium font-nunito">Portfoilo Website</p>
         </div>
 
         {/* Hamburger Icon */}
