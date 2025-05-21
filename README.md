@@ -1,6 +1,6 @@
-# My Portfolio 
+# My Portfolio 🧸
 
-## I'm Narongrit Klinloy call me Boom 
+## I'm Narongrit Klinloy call me Boom 📚
 
 A passionate Full Stack Software Developer having experience of building 
 web applications with JavaScript, ReactJs, NodeJs and some other cool libraries and frameworks.
