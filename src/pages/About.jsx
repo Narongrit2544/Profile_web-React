@@ -34,14 +34,14 @@ const About = () => {
         </div>
       </div>
 
-      {/* About Section */}
+      {/* About Section https://img2.pic.in.th/pic/311471.jpg*/}
       <div className="relative flex flex-col md:flex-row my-10 justify-center items-center md:items-start px-4 sm:px-8 md:px-16 lg:px-24 gap-12 max-w-screen-xl mx-auto z-10">
         <div className="w-56 h-56 sm:w-72 sm:h-72 md:w-96 md:h-96 md:flex">
           <div className="relative overflow-hidden rounded-[20px] shadow-2xl z-10 object-cover">
             <img
-              src="https://img2.pic.in.th/pic/F740EBFB-413F-48A6-8600-0BA8BAF24AE2.jpg"
+              src="https://img2.pic.in.th/pic/311491.jpg"
               alt="Boom"
-              className="w-full h-full object-cover transform scale-125 transition-transform duration-500 ease-in-out"
+              className="w-full h-full object-cover transform scale-100 transition-transform duration-500 ease-in-out"
             />
           </div>
         </div>
