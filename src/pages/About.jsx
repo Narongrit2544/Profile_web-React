@@ -39,7 +39,7 @@ const About = () => {
         <div className="w-56 h-56 sm:w-72 sm:h-72 md:w-96 md:h-96 md:flex">
           <div className="relative overflow-hidden rounded-[20px] shadow-2xl z-10 object-cover">
             <img
-              src="https://img2.pic.in.th/pic/311491.jpg"
+              src="https://img2.pic.in.th/pic/311471.jpg"
               alt="Boom"
               className="w-full h-full object-cover transform scale-100 transition-transform duration-500 ease-in-out"
             />
