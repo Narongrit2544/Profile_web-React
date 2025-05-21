@@ -70,7 +70,7 @@ const Home = () => {
         <div className="flex justify-center md:flex-1 w-full max-w-sm md:max-w-md">
           <div className="w-56 h-56 sm:w-72 sm:h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-8 border-white shadow-lg group">
             <img
-              src="https://img2.pic.in.th/pic/F740EBFB-413F-48A6-8600-0BA8BAF24AE2.jpg"
+              src="https://img2.pic.in.th/pic/311472.jpg"
               alt="image Boom"
               className="w-full h-full object-cover transform scale-125 group-hover:scale-150 transition-transform duration-500 ease-in-out"
             />
