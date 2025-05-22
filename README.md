@@ -15,4 +15,4 @@ I'm a passionate Full Stack Software Developer with experience building web appl
 
 ---
 
-### 🚀 [Visit My Website](https://portfolionarongritboom.netlify.app/project)
+### 🚀 [Visit My Website](https://portfolionarongritboom.netlify.app)
